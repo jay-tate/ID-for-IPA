@@ -1,8 +1,8 @@
 # ID-for-IPA
 Instructional Design for the International Phonetic Alphabet
 
-2023 Nov 5: This is an Oct-Dec 2023 student project repository for the EdX course IDT200x Instructional Design and Technology: Instructional Design Models
-offered through the University of Maryland Global Campus 
+2023 Nov 5: This is student project repository for an 8-week EdX course during during Oct-Dec 2023 for USMx: LDT200x, 
+offered by the University of Maryland Global Campus as IDT200x Instructional Design and Technology: Instructional Design Models
 
 Course Facilitators
 
