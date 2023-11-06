@@ -26,13 +26,15 @@ For example (exploring a possible a sample activity for learners), I asked Perpl
 So, there are strong attractions to using AI for this project. However, the use of AI also raises additional factual and ethical issues. 
 
 -factual: The AI will make mistakes. As 
-<a href="https://dl.acm.org/doi/10.1145/3531146.3533158)/">"The Fallacy of Functionality" (2022)</a> makes clear, the most basic problem are all the ways that AI can fail. Preliminary testing already confirms that every piece of the results must be fact-checked. For instance, in reponse to a different query, the first result from Perplexity.io read as follows: 
+<a href="https://dl.acm.org/doi/10.1145/3531146.3533158)/">"The Fallacy of Functionality" (2022)</a> makes clear, the most basic problem are all the ways that AI can fail, whether due to impossible tasks, engineering failures, post-deployment failures, or communication failures.
+
+My own brief exploratory testing already suggests that every piece AI-generated teaching material must be fact-checked. For instance, in reponse to another query, the first result from Perplexity.io read as follows: 
 
 "Here are the ten largest countries in the world, along with their pronunciation in American English and in the local standard language:"
 
        Russia - /ˈrʌʃə/ (American English) - /ˈrʌʃə/ (Russian: Россия) 
 
-Note, unfortunately for the AI, that the supposedly "Russian" pronunciation given for the largest country in the world is identical to the English pronunciation! Getting this inccorect piece of information corrected required noticing the mistake, asking for the pronunciation of the Cyrillic spelling, and manually inserting the separately generated correct pronunciation into a larger list: 
+Note, unfortunately for the AI, that the supposedly "Russian" pronunciation given for the largest country in the world is identical to the English pronunciation! Correcting this incorrect piece of information required noticing the mistake, re-querying for the correct pronunciation of the Cyrillic spelling, and manually inserting the separately-generated correct pronunciation into a larger list: 
 
         "Overall, the pronunciation of Россия in Russian is: /rɐˈsʲijə/ (ross-SEE-ya)."
 
