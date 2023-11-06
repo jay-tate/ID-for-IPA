@@ -33,7 +33,7 @@ Note, unfortunately for the AI, that the supposedly "Russian" pronunciation give
 
 FOR MORE INFORMATION 
 
-"Help:IPA" on Wikipedia: "a basic key to the symbols of the International Phonetic Alphabet." https://en.wikipedia.org/wiki/Help:IPA
+"Help:IPA" <a href="[url](https://en.wikipedia.org/wiki/Help:IPA)">link text</a>: "a basic key to the symbols of the International Phonetic Alphabet." https://en.wikipedia.org/wiki/Help:IPA
 
 "Phonetic transcription" on Wikipedia. Good on the issue of narrow versus broad transcription, concluding, "A rule of thumb in many linguistics contexts is therefore to use a narrow transcription when it is necessary for the point being made, but a broad transcription whenever possible." https://en.wikipedia.org/wiki/Phonetic_transcription 
 
