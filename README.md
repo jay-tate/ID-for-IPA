@@ -37,6 +37,8 @@ FOR MORE INFORMATION
 
 "Phonetic transcription" on Wikipedia. Good on the issue of narrow versus broad transcription, concluding, "A rule of thumb in many linguistics contexts is therefore to use a narrow transcription when it is necessary for the point being made, but a broad transcription whenever possible." https://en.wikipedia.org/wiki/Phonetic_transcription 
 
+Accents & Dialects for Stage and Screen: Deluxe Edition (2020), revised edition 426 pp, by Paul Meier. Authoritative but overkill for beginners, with detailed coverage of twenty-seven dialects and accents of English plus many foreign language accents in English. https://www.amazon.com/Accents-Dialects-Stage-Screen-streaming/dp/1938029909
+
 NOTE: This is a student project repository for an 8-week EdX course during during Oct 17-Dec 4, 2023 for USMx: LDT200x, 
 offered by the University of Maryland Global Campus as IDT200x Instructional Design and Technology: Instructional Design Models
 
