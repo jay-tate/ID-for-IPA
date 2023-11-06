@@ -1,7 +1,10 @@
 # ID-for-IPA
-Instructional Design for the International Phonetic Alphabet
+Toward an Instructional Design Document on the topic of the International Phonetic Alphabet
 
-2023 Nov 5: This is a student project repository for an 8-week EdX course during during Oct-Dec 2023 for USMx: LDT200x, 
+FILES
+Week 1: Instructional Design Topic & Learning Gap: International Phonetic Alphabet
+
+2023 Nov 5: This is a student project repository for an 8-week EdX course during during Oct 17-Dec 4, 2023 for USMx: LDT200x, 
 offered by the University of Maryland Global Campus as IDT200x Instructional Design and Technology: Instructional Design Models
 
         Week 1 (October 17, 2023): Introduction, History, Ethics, Accessibility, & Artificial Intelligence
