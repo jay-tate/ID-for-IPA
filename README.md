@@ -26,7 +26,7 @@ For example (exploring a possible a sample activity for learners), I asked Perpl
 So, there are strong attractions to using AI for this project. However, the use of AI also raises additional factual and ethical issues. 
 
 -factual: The AI will make mistakes. As 
-<a href="https://dl.acm.org/doi/10.1145/3531146.3533158)/">"The Fallacy of Functionality" (2022)</a> makes clear, the most basic problem are all the ways that AI can fail, whether due to impossible tasks, engineering failures, post-deployment failures, or communication failures.
+<a href="https://dl.acm.org/doi/10.1145/3531146.3533158)/">"The Fallacy of Functionality" (2022)</a> makes clear, the most hurdles are all the ways that AI can fail, whether due to impossible tasks, engineering failures, post-deployment failures, or communication failures.
 
 My own brief exploratory testing already suggests that every piece AI-generated teaching material must be fact-checked. For instance, in reponse to another query, the first result from Perplexity.io read as follows: 
 
