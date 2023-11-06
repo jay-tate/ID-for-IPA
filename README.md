@@ -19,9 +19,11 @@ For viewers: V1) Larger font sizes for viewers: the unfamiliar letters and symbo
 
 For listeners: L1) Alternative text representations for viewers unable to listen: Merely putting a dictionary word on screen together with a dictionary rendering of IPA will sometimes leave some viewers unclear what sound is actuallly being conveyed. L2) Whatever the font choice, the final presentation should take care to present IPA fonts in text, not merely as images unreadable to machine readers. 
 
--AI: One of the attractions of taking on this project in late 2023 into early 2024 is how efficiently current AI can handle batch queries that previously would have taken geometrically longer to answer using the single-item queries of a pre-2022 search engine. For example, toward a possible a sample activity for learners, I asked Perplexity.io to generate a list of Shakespeare's ten most famous plays with each title transcribed in IPA -- which it did successfully! Multiply that success across many other examples, and it becomes readily possible to generate a large number of appealing activities for non-specialist learners , with far less tedious work assembling the examples and far less input needed from linguistics SMEs. 
+-AI: One of the attractions of taking on this project in late 2023 into early 2024 is how efficiently current AI can handle batch queries that previously would have taken geometrically longer to answer using the single-item queries of a pre-2022 search engine. 
 
-So, there are strong attractions to using AI for this project. However, the use of AI also rasises additional factual and ethical issues. 
+For example (exploring a possible a sample activity for learners), I asked Perplexity.io to generate a list of Shakespeare's ten most famous plays with each title transcribed in IPA -- which it did successfully! To the extent that such successes can be multiplied across many other examples, and it becomes readily possible to generate a large number of appealing activities for non-specialist learners, reducing both the tedious work of typing the examples and reducing the input needed from linguistics SMEs. 
+
+So, there are strong attractions to using AI for this project. However, the use of AI also raises additional factual and ethical issues. 
 
 -factual: The AI will make mistakes. As 
 <a href="https://dl.acm.org/doi/10.1145/3531146.3533158)/">"The Fallacy of Functionality" (2022)</a> makes clear, the most basic problem are all the ways that AI can fail. Preliminary testing already confirms that every piece of the results must be fact-checked. For instance, in reponse to a different query, the first result from Perplexity.io read as follows: 
