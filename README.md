@@ -35,7 +35,7 @@ FOR MORE INFORMATION
 
 <a href="https://en.wikipedia.org/wiki/Help:IPA)/">"Help:IPA"</a>: Wikipedia's "basic key to the symbols of the International Phonetic Alphabet." https://en.wikipedia.org/wiki/Help:IPA
 
-<a href="https://en.wikipedia.org/wiki/Phonetic_transcription)/">"Phonetic transcription"</a>: Good on the issue of narrow versus broad transcription, concluding, "A rule of thumb in many linguistics contexts is therefore to use a narrow transcription when it is necessary for the point being made, but a broad transcription whenever possible." https://en.wikipedia.org/wiki/Phonetic_transcription 
+<a href="https://en.wikipedia.org/wiki/Phonetic_transcription)/">"Phonetic transcription"</a>: Wikipedia is succinct on the tradeoffs of narrow transcription (more detailed but complex) versus broad transcription (less detailed but easier), concluding, "A rule of thumb in many linguistics contexts is therefore to use a narrow transcription when it is necessary for the point being made, but a broad transcription whenever possible." https://en.wikipedia.org/wiki/Phonetic_transcription 
 
 <i>Accents & Dialects for Stage and Screen: Deluxe Edition</i> (2020), revised edition 426 pp, by Paul Meier. Authoritative but overkill for beginners, with detailed coverage of twenty-seven dialects and accents of English plus many foreign language accents in English. https://www.amazon.com/Accents-Dialects-Stage-Screen-streaming/dp/1938029909
 
