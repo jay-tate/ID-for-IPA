@@ -27,7 +27,7 @@ So, there are strong attractions to using AI for this project. However, the use 
 
        Russia - /ˈrʌʃə/ (American English) - /ˈrʌʃə/ (Russian: Россия) 
 
-Note, unfortunately for the AI, that the supposedly "Russian" pronunciation given for the largest country in the world is identical to the English pronunciation! Getting this inccorect piece of information corrected required noticing the mistake, asking for the pronunciation of the Cyrillic spelling, and manually the separately generated correct pronunciation into a larger list: 
+Note, unfortunately for the AI, that the supposedly "Russian" pronunciation given for the largest country in the world is identical to the English pronunciation! Getting this inccorect piece of information corrected required noticing the mistake, asking for the pronunciation of the Cyrillic spelling, and manually inserting the separately generated correct pronunciation into a larger list: 
 
         "Overall, the pronunciation of Россия in Russian is: /rɐˈsʲijə/ (ross-SEE-ya)."
 
