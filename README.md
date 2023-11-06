@@ -23,7 +23,7 @@ So, there are strong attractions to using AI for this project. However, the use 
 
 -factual: The AI will make mistakes. Preliminary testing already confirms that every piece of the results must be fact-checked. For instance, in reponse to a different query, the first result from Perplexity.io read as follows: 
 
-Here are the ten largest countries in the world, along with their pronunciation in American English and in the local standard language:
+"Here are the ten largest countries in the world, along with their pronunciation in American English and in the local standard language:"
 
        Russia - /ˈrʌʃə/ (American English) - /ˈrʌʃə/ (Russian: Россия) 
 
@@ -31,6 +31,11 @@ Note, unfortunately for the AI, that the supposedly "Russian" pronunciation give
 
         "Overall, the pronunciation of Россия in Russian is: /rɐˈsʲijə/ (ross-SEE-ya)."
 
+FOR MORE INFORMATION 
+
+"Help:IPA" on Wikipedia: "a basic key to the symbols of the International Phonetic Alphabet." https://en.wikipedia.org/wiki/Help:IPA
+
+"Phonetic transcription" on Wikipedia. Good on the issue of narrow versus broad transcription, concluding, "A rule of thumb in many linguistics contexts is therefore to use a narrow transcription when it is necessary for the point being made, but a broad transcription whenever possible." https://en.wikipedia.org/wiki/Phonetic_transcription 
 
 NOTE: This is a student project repository for an 8-week EdX course during during Oct 17-Dec 4, 2023 for USMx: LDT200x, 
 offered by the University of Maryland Global Campus as IDT200x Instructional Design and Technology: Instructional Design Models
