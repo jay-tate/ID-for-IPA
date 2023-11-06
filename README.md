@@ -1,11 +1,13 @@
 # ID-for-IPA
 Toward an Instructional Design Document on the topic of the International Phonetic Alphabet
 
-Week 1: Instructional Design Topic & Learning Gap (submitted Nov 5, 2023)
+Week 1: Instructional Design Topic & Learning Gap (Nov 6, 2023)
 
 TOPIC: Using the International Phonetic Alphabet (IPA)
 
-LEARNING GAP: At present, the only readilly available instructional materials for learning to use the International Phonetic Alphabet (IPA) are designed for the specialized use of linguistics students. Those materials, however, are overly technical and presume a regular, immersive, and career-spanning use of IPA. This results in a learning gap between linguists and everyone else. Bridging this particular gap has potentially practical implications for a variety of applied fields where there are less-frequent, less-intensive potential use cases. These potential users include second language learners, singers of foreign language vocal music, and actors working on dialects and foreign accents. Many of these potential users of the IPA may even be made briefly aware of the clarifying power of the IPA during their study in fields such as Communications, Theater, or Music. Yet such students do not have an efficient way to acquire (or reacquire) IPA skills to a usable level for their own purposes. As a result, even most potential users who have heard of IPA -- in connection with anything other than beer! -- end up becomg a case of "Tell me, and I forget."
+LEARNING GAP: At present, the only readilly available instructional materials for learning to use the International Phonetic Alphabet (IPA) are designed for the specialized use of linguistics students. Those materials, however, tend to be highly technical and presume a regular, immersive, and career-spanning use of IPA. This instructional bias results in a learning gap between linguists and everyone else. 
+
+Bridging this particular gap with a mini-course has potentially practical implications for a variety of applied fields where there are less-frequent, less-intensive potential use cases. These potential users include second language learners, singers of foreign language vocal music, and actors working on dialects and foreign accents. Many of these potential users of the IPA may even be made briefly aware of the clarifying power of the IPA during their study in fields such as Communications, Theater, or Music. Yet such students do not have an efficient way to acquire (or reacquire) IPA skills to a usable level for their own purposes. As a result, even most potential users who have heard of IPA -- in connection with anything other than beer! -- end up becomg a case of "Tell me, and I forget."
 
 OTHER CONSIDERATIONS: There are ethical, accessibility, and AI considerations to address for this project. 
 
