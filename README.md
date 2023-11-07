@@ -3,7 +3,7 @@ Toward an Instructional Design Document on the topic of the International Phonet
 
 Week 1: Instructional Design Topic & Learning Gap (Nov 6, 2023)
 
-TOPIC: Using the International Phonetic Alphabet (IPA)
+TOPIC: Using the International Phonetic Alphabet (IPA) 
 
 LEARNING GAP: At present, the only readilly available instructional materials for learning to use the International Phonetic Alphabet (IPA) are designed for the specialized use of linguistics students. Those materials, however, tend to be highly technical and presume a regular, immersive, and career-spanning use of IPA. This instructional bias results in a learning gap between linguists and everyone else. 
 
