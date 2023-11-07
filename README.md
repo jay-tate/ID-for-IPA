@@ -21,7 +21,7 @@ For listeners: L1) Alternative text representations for viewers unable to listen
 
 -AI: One of the attractions of taking on this project in late 2023 into early 2024 is how efficiently current AI can handle batch queries that previously would have taken geometrically longer to answer using the single-item queries of a pre-2022 search engine. 
 
-For example (exploring a possible a sample activity for learners), I asked Perplexity.io to generate a list of Shakespeare's ten most famous plays with each title transcribed in IPA -- which it did successfully! To the extent that such successes can be multiplied across many other examples, and it becomes readily possible to generate a large number of appealing activities for non-specialist learners, reducing both the tedious work of typing the examples and reducing the input needed from linguistics SMEs. 
+For example (exploring a possible a sample activity for learners), I asked Perplexity.ai to generate a list of Shakespeare's ten most famous plays with each title transcribed in IPA -- which it did successfully! To the extent that such successes can be multiplied across many other examples, and it becomes readily possible to generate a large number of appealing activities for non-specialist learners, reducing both the tedious work of typing the examples and reducing the input needed from linguistics SMEs. 
 
 So, there are strong attractions to using AI for this project. However, the use of AI also raises additional factual and ethical issues. 
 
